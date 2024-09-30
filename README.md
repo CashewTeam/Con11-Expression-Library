@@ -58,6 +58,6 @@ getTrimPathPoint(thePath,startEndValue,offSetValue);
 
 ### 获取修剪路径上的点切线方向
 ```javascript
-getTrimPathPoint(thePath,startEndValue,offSetValue);
+getTrimPathRotion(thePath,startEndValue,offSetValue);
 ```
 (路径,开始/结束点, 偏移)
